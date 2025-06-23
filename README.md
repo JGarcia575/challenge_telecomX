@@ -5,13 +5,13 @@
 </div>
 ## 🛫 Descripción del proyecto 🛫
 
-_El desafío TelecomX forma parte de la formación Data Science del programa ONE, especificamente de la formación Extracción, Transformación y Carga_. 
+_El desafío TelecomX forma parte de la formación de Data Science del programa ONE, especificamente del curso Aprendiendo hacer ETL_. 
 
 _La empresa de telecomunicaciones está enfrentando una alta tasa de cancelación y necesita comprender los factores que llevan a la pérdida de clientes_. 
 
 _El challenge consiste en recopilar, procesar y analizar los datos utilizando las bibliotecas Pandas, Matplotlib y Seaborn, con el objetivo de identificar los factores que están influyendo en la baja de clientes_.
 
-_Además, se confeccionó un informe con los pasos que se aplicaron para realizar el análisis, los resultados y las recomendaciones para afrontar el problema de las cancelaciones de los clientes_.
+_Para conocer qué razones están llevando a los clientes a darse de baja en primer lugar, hubo que extraer los datos desde una API, en segundo lugar tuvimos que limpiar los errores, así como también, hacer transformaciones necesarias para el próximo paso, el análisis de los datos. Por último, confeccionamos un informe con los pasos que se aplicaron para realizar el análisis, los resultados y las recomendaciones para afrontar el problema de las cancelaciones_.
 
 ## 💻 Instalación del proyecto 💻
 
